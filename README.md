@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100" alt="image" src="https://i.namu.wiki/i/9RXf1ZDOJ-EMB7IykB8CpeQA3CP04Xy9gW3onfTJ71tomCAfahy3eX343nkcw0dKEgM62UeOZL_vQ3sxbWG9GSZUQUAK-5gVtD1YRjXWv1nTeH3noNZcqQKdPp0ZkehIWMkOLtBGF8_MPxOTuxC1bw.svg" style="margin-right: 40px;">
+    <img width="100" alt="image" src="https://i.namu.wiki/i/9RXf1ZDOJ-EMB7IykB8CpeQA3CP04Xy9gW3onfTJ71tomCAfahy3eX343nkcw0dKEgM62UeOZL_vQ3sxbWG9GSZUQUAK-5gVtD1YRjXWv1nTeH3noNZcqQKdPp0ZkehIWMkOLtBGF8_MPxOTuxC1bw.svg">
 </div>
 
 <div align="center">
