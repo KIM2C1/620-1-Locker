@@ -19,9 +19,9 @@
 ## **🔍 동작영상**
 
 <details>
-    <summary><h3>DEU MPPT(23-10-03)</summary>
+    <summary><h3>620-1 Locker(23-10-03)</summary>
     <div align="center">
-        <img src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/778f3e0a-ea64-4380-be92-621bc7d8786">
+        <img src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/778f3e0a-ea64-4380-be92-621bc7d8786f">
     </div>
 </details>
 
