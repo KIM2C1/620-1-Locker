@@ -5,10 +5,10 @@ app = Flask(__name__)
 
 # 데이터베이스 연결 구성
 db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '1234',
-    'database': 'wpqkf',
+    'host': '###t',
+    'user': '###',
+    'password': '###',
+    'database': '###',
 }
 
 @app.route('/', methods=['GET', 'POST'])
