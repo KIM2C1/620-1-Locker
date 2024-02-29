@@ -29,7 +29,7 @@
 ## **🔍 동작이미지**
 <div align="left">
         <img width="240" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/7fcc2a29-b18a-4236-ae80-4b40be93b79f">
-        <img width="600" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/cf997f03-c14b-49e4-b2c4-775630813cb2">
+        <img width="580" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/cf997f03-c14b-49e4-b2c4-775630813cb2">
 
 ## **🛠 기능**
 
