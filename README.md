@@ -29,12 +29,12 @@
 ## **🔍 동작이미지**
 <div align="left">
         <img width="240" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/7fcc2a29-b18a-4236-ae80-4b40be93b79f">
-        <img width="580" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/cf997f03-c14b-49e4-b2c4-775630813cb2">
+        <img width="570" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/cf997f03-c14b-49e4-b2c4-775630813cb2">
 
 ## **🛠 기능**
 
 ### CMOS QR코드 스캐너 모듈을 이용하여 사용자 태그 인식
-<div align="center">
+<div align="left">
         <img width="250" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/ae5b9e9b-badb-4e6e-a8d6-fd2de058709d">
 </div>
  - 라즈베리파이4와 USB 연결 및 [USB모드, Add CR, 9600] 바코드 스캐너 설정
