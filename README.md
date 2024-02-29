@@ -8,6 +8,7 @@
 
 ## ✒️ : 목차
 - ✍️ [프로젝트 개요](#프로젝트-개요)
+- 🔍 [동작영상](#-동작영상)
 - 🛠 [기능](#-기능)
 
 
@@ -29,7 +30,7 @@
 
 ### CMOS QR코드 스캐너 모듈을 이용하여 사용자 태그 인식
 <div align="left">
-        <img width="250" src="https://github.com/KIM2C1/MPPT/assets/76949032/8404c6e0-9e5a-4e79-9d32-c94edb51b7d5">
+        <img width="250" src="![barcode_scanner](https://github.com/KIM2C1/620-1-Locker/assets/119794073/ae5b9e9b-badb-4e6e-a8d6-fd2de058709d)">
 </div>
  - 라즈베리파이4와 USB 연결 및 [USB모드, Add CR, 9600] 바코드 스캐너 설정
  - Key Mapping을 통해 디코드 진행
