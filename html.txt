@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>620-1</title>
+    <!-- 부트스트랩 CDN 추가 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">620-1</h1>
+        <form action="/" method="post" class="mb-4">
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label for="date" class="form-label">날짜 선택:</label>
+                    <input type="date" id="date" name="date" class="form-control">
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label for="employee" class="form-label">학부생 선택:</label>
+                    <select id="employee" name="employee" class="form-select">
+                        <option value="">전체</option>
+                        <option value="김시원">김시원</option>
+                        <option value="신종원">신종원</option>
+                        <option value="김보석">김보석</option>
+                        <option value="전유정">전유정</option>
+                        <option value="박승규">박승규</option>
+                        <option value="문영민">문영민</option>
+                        <option value="이윤승">이윤승</option>
+                        <option value="최성원">최성원</option>
+                    </select>
+                </div>
+                <div class="col-md-4 d-flex align-items-end">
+                    <button type="submit" class="btn btn-primary">조회</button>
+                </div>
+            </div>
+        </form>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>학부생</th>
+                    <th>상태</th>
+                    <th>시간</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for log in logs %}
+                <tr>
+                    <td>{{ log.id }}</td>
+                    <td>{{ log.employee_id }}</td>
+                    <td>{{ log.status }}</td>
+                    <td>{{ log.timestamp }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <!-- 부트스트랩 자바스크립트 CDN 추가 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
