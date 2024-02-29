@@ -1,6 +1,5 @@
 <div align="center">
     <img width="100" alt="image" src="https://i.namu.wiki/i/9RXf1ZDOJ-EMB7IykB8CpeQA3CP04Xy9gW3onfTJ71tomCAfahy3eX343nkcw0dKEgM62UeOZL_vQ3sxbWG9GSZUQUAK-5gVtD1YRjXWv1nTeH3noNZcqQKdPp0ZkehIWMkOLtBGF8_MPxOTuxC1bw.svg" style="margin-right: 40px;">
-    <img width="91" alt="image" src="https://github.com/KIM2C1/MPPT/assets/76949032/983b45ce-fcdf-4307-85a4-49ac7bc79dab">
 </div>
 
 <div align="center">
