@@ -30,7 +30,7 @@
 
 ### CMOS QR코드 스캐너 모듈을 이용하여 사용자 태그 인식
 <div align="left">
-        <img width="250" src="![barcode_scanner](https://github.com/KIM2C1/620-1-Locker/assets/119794073/ae5b9e9b-badb-4e6e-a8d6-fd2de058709d)">
+        <img width="250" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/ae5b9e9b-badb-4e6e-a8d6-fd2de058709d">
 </div>
  - 라즈베리파이4와 USB 연결 및 [USB모드, Add CR, 9600] 바코드 스캐너 설정
  - Key Mapping을 통해 디코드 진행
