@@ -1,9 +1,9 @@
 #Define Server
 db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '1234',
-    'database': 'wpqkf',
+    'host': '###',
+    'user': '###',
+    'password': 'Your password',
+    'database': 'Your db name',
 }
 
 #Define employee
