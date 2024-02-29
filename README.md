@@ -20,9 +20,9 @@
 ## **🔍 동작영상**
 
 <details>
-    <summary><h3>620-1 Locker(23-10-03)</summary>
+    <summary><h3>620-1 Locker</h3></summary>
     <div align="center">
-        <img src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/4c55144f-d59b-4873-8611-ca4dd18d5310">
+        <img src="https://github.com/KIM2C1/620-1-Locker/blob/main/assets/119794073/4c55144f-d59b-4873-8611-ca4dd18d5310.jpg?raw=true">
     </div>
 </details>
 
