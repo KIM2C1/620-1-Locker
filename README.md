@@ -16,6 +16,14 @@
 - 연구실 인원들의 출/퇴근 상태를 체크함으로써 연구실 참여에 동기부여 및 연구 개발 시간을 체크 할 수 있습니다.
 - 작품 동작을 위한 개발이 아닌 실제로 적용했을때 발생하는 문제점 및 디버깅을 해보면서 실력을 향상시킨다.
 
+## **🔍 동작영상**
+
+<details>
+    <summary><h3>DEU MPPT(23-10-03)</summary>
+    <div align="center">
+        <img src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/778f3e0a-ea64-4380-be92-621bc7d8786">
+    </div>
+</details>
 
 ## **🛠 기능**
 
