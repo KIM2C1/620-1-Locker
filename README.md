@@ -17,16 +17,7 @@
 - 연구실 인원들의 출/퇴근 상태를 체크함으로써 연구실 참여에 동기부여 및 연구 개발 시간을 체크 할 수 있습니다.
 - 작품 동작을 위한 개발이 아닌 실제로 적용했을때 발생하는 문제점 및 디버깅을 해보면서 실력을 향상시킨다.
 
-## **🔍 동작영상**
-
-<details>
-    <summary><h3>620-1 Locker</h3></summary>
-    <div align="center">
-        <img src="https://github.com/KIM2C1/620-1-Locker/blob/main/assets/119794073/4c55144f-d59b-4873-8611-ca4dd18d5310.jpg?raw=true">
-    </div>
-</details>
-
-## **🔍 동작이미지**
+## **🔍 이미지**
 <div align="left">
         <img width="240" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/7fcc2a29-b18a-4236-ae80-4b40be93b79f">
         <img width="560" src="https://github.com/KIM2C1/620-1-Locker/assets/119794073/cf997f03-c14b-49e4-b2c4-775630813cb2">
